@@ -1,2 +1,2 @@
 # Political Orientation Estimator
-I will share the projects I wrote with the Python programming language here.
+Liberal vs. Conservative: Nutzung von NLP (Natural Language Processing), maschinellem Lernen und Deep Learning-Techniken, um zu erraten, ob ein Satz von einem Liberalen oder einem Konservativen geschrieben wurde.
